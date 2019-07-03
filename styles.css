@@ -1,0 +1,28 @@
+.content{
+	background-color: #eee;
+}
+
+#users,
+#portfolio {
+	padding: 10px;
+}
+#portfolio{
+	margin-bottom: 20px;
+}
+.portfolio-item{
+	padding: 10px;
+	outline: 0;
+	box-shadow: 0px 0px 0px #ccc;
+	transition: box-shadow 2s, outline 5s;
+}
+.portfolio-item:hover {
+	outline: 1px solid #ccc;
+	box-shadow: 2px 2px 5px #ccc;
+}
+footer {
+	height: 100px;
+	background-color: #eee;
+	display: flex;
+	flex-flow: column;
+	justify-content: center;
+}
