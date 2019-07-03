@@ -7,10 +7,11 @@
 		<div class="content">
 			<div class="container">
 				<div class="row">
-				  <div class="jumbotron">
-				    <h1>Welcome to the PHP Tutorial!</h1> 
+				  <div class="jumbotron Test">
+				    <h1>Welcome to the PHP Tutorial! Testing</h1> 
 				    <p>Today, we are going to discuss how to code using the NATIVE PHP language and mix it with your HTML and CSS codes.</p> 
 				  	<a href="login.php">Click Here to Login</a>
+				  	<h1>Test</h1>
 				  </div>
 			  	</div>
 			</div>
@@ -18,6 +19,7 @@
 		<div class="container">
 		  <div class="row" id="users">
 		  	<h2>List of Users</h2>
+		  	<h1>Test</h1>
 		  	<hr>
 		  	<div class="table-responsive">
 		  		<table class="table table-striped table-hover table-bordered">
